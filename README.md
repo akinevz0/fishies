@@ -17,4 +17,4 @@ The bigger you are, the bigger your food is.
 
 Become bigger than the whales. 
 
-![home](https://github.com/akinevz0/Resume/blob/main/avatars-7fPQnwstkBhiQyfz-gazApA-t1500x1500.jpg?raw=true)
+[home](https://github.com/akinevz0/fishies/blob/main/%D0%9A%D0%98%D0%A0%D0%98%D0%9B%D0%9E%D0%9A%D0%9E%D0%A22.png?raw=true) 
