@@ -12,6 +12,8 @@ A game about being a fish
 - seaweed
 - crabs
 - moluscs
+- planktons
+- amoebas
 
 The bigger you are, the bigger your food is. 
 
