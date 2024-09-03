@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.import.gradle.java.home": "/usr/lib/jvm/msopenjdk-current/"
+}
