@@ -14,6 +14,12 @@
 			"username": "vscode",
 			"userUid": "automatic",
 			"userGid": "automatic"
+		},
+		"ghcr.io/devcontainers/features/node": {
+			"version": "latest"
+		},
+		"ghcr.io/devcontainers-community/npm-features/typescript": {
+			"version": "latest"
 		}
 	},
 	// Features to add to the dev container. More info: https://containers.dev/features.
