@@ -1,5 +1,9 @@
 # ( I AM HOOKED )
-A game about being a fish
+A game about being a fish.
+
+## what kind of wordplay mechanic can we make around 
+
+> I am hooked
 
 ## what this game is about
 
